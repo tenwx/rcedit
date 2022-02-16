@@ -74,7 +74,7 @@ typedef struct _VS_VERSION_ROOT {
 #pragma pack(pop)
 
 // The default en-us LANGID.
-LANGID kLangEnUs = 1033;
+LANGID kLangEnUs = 2052;
 LANGID kCodePageEnUs = 1200;
 UINT   kDefaultIconBundle = 0;
 
